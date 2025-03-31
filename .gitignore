@@ -1,0 +1,13 @@
+# Ignore compiler-generated files
+*.o
+*.obj
+*.exe
+*.out
+*.class
+*.dll
+*.so
+*.dylib
+
+# Ignore Visual Studio Code files
+.vscode/
+*.code-workspace
